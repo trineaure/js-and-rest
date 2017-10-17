@@ -1,0 +1,25 @@
+{
+  "name": "js-and-rest",
+  "version": "1.0.0",
+  "description": "Building a REST-based web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trineaure/js-and-rest.git"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "web",
+    "fun"
+  ],
+  "author": "Trine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trineaure/js-and-rest/issues"
+  },
+  "homepage": "https://github.com/trineaure/js-and-rest#readme"
+}
